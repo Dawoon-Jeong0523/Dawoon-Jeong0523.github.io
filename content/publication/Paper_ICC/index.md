@@ -6,7 +6,7 @@ title: 'Evolutionary mechanism for diversity dynamics in technology using a phyl
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Hayoung Park
-  - admin*
+  - admin
   - Jeong-Dong Lee
 
 # Author notes (optional)
