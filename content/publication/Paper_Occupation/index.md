@@ -13,7 +13,7 @@ authors:
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+#publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,8 +21,8 @@ publishDate: ""
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Technovation*
-#publication_short: In *Technovation*
+publication: In *Preprint*
+publication_short: In *Preprint*
 
 abstract: Occupational mobility is an emergent strategy to cope with technological unemployment by facilitating efficient labor redeployment. However, previous studies analyzing networks show that the boundaries to smooth mobility are constrained by a fragmented structure in the occupation network. In this study, positing that this structure will significantly change due to automation, we propose the skill automation view, which asserts that automation substitutes for skills, not for occupations, and simulate a scenario of skill automation drawing on percolation theory. We sequentially remove skills from the occupation-skill bipartite network and investigate the structural changes in the projected occupation network. The results show that the accumulation of small changes (the emergence of bridges between occupations due to skill automation) triggers significant structural changes in the occupation network. The structural changes accelerate as the components integrate into a new giant component. This result suggests that automation mitigates the bottlenecks to smooth occupational mobility.
 
