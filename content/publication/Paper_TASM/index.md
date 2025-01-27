@@ -1,0 +1,75 @@
+---
+title: 'Measuring ethics level of technological topics using phylogenetic tree'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:  
+  - Dawoon Jeong
+  - Chanlim Park*
+  - Taewon Kang
+  - Kiyoon Shin
+  - Sungjun Choi
+  - Junseok Hwang
+  
+
+#date: '2013-07-01T00:00:00Z'
+#doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2023-05-15T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
+
+# Publication name and optional abbreviated publication name.
+publication: In *Technology Analysis & Strategic Management*
+publication_short: In *TASM*
+
+#abstract: Deriving a product lineage within a phylogenetic tree to identify the product development trajectory and quantitatively measure innovativeness by measuring the #average information content of the product's technical characteristics. The cyclical pattern of changes in the innovativeness in product lineage was modeled, referred to as #the product lineage life cycle (PLLC) model
+
+tags:
+  - Technology Phylogenetic Tree
+  - AI Ethics
+  - Financial AI
+  - Technological Topic
+
+# Display this page in the Featured widget?
+featured: False
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.tandfonline.com/doi/abs/10.1080/09537325.2023.2209214'
+#url_code: 'https://github.com/Dawoon-Jeong0523/Product-Science/blob/main/Phylogenetic_Tree_Product_IEEE_TEM.ipynb'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+#projects:
+#  - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
+
+
+
+---
+
