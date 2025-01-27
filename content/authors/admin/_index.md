@@ -24,7 +24,9 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Kellogg School of Management, Northwestern University\nAffiliated with the Northwestern Institute on Complex Systems
+  - name: Kellogg School of Management, Northwestern University
+          
+          Affiliated with the Northwestern Institute on Complex Systems
     url: https://www.nico.northwestern.edu/
 
 # Social network links
@@ -108,7 +110,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning
         description: ''
         percent: 80
         icon: chart-bar
@@ -120,7 +122,7 @@ skills:
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
 #    items:
-#      - name: Hiking
+#      - name: 
 #        description: ''
 #        percent: 60
 #        icon: person-simple-walk
@@ -143,11 +145,19 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-#  - title: Neural Networks and Deep Learning
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
-#    date: '2023-11-25'
-#    awarder: Coursera
+awards:
+  - title: 2023 Ph.D. Fellowship
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-09-01'
+    awarder: National Research Foundation of Korea
+  - title: 2022 KISTEP Fellowship
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2022-06-01'
+    awarder: Korea Institute of Science & Technology Evaluation and Planning (KISTEP)
+  - title: 2021 KIST Convergence Research Fellowship
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2021-06-01'
+    awarder: Korea Institute of Science and Technology (KIST)
 #    icon: coursera
 #    summary: |
 #      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep #learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s #architecture; and apply deep learning to your own applications.
