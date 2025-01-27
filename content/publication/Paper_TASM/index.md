@@ -28,7 +28,22 @@ publication_types: ["article-journal"]
 publication: In *Technology Analysis & Strategic Management*
 publication_short: In *TASM*
 
-#abstract: Deriving a product lineage within a phylogenetic tree to identify the product development trajectory and quantitatively measure innovativeness by measuring the #average information content of the product's technical characteristics. The cyclical pattern of changes in the innovativeness in product lineage was modeled, referred to as #the product lineage life cycle (PLLC) model
+abstract: This study attempted to construct a finance AI technology phylogenetic tree that represents the evolutionary pattern of finance AI technology
+and quantitatively measures the level of ethical attributes in the tree’s technological topics. Based on the tree, it was confirmed that the
+finance AI technology field is evolving in the direction of three research topics in 2021 -  deep learning, machine learning, and decision-making
+technology. Through NLP methodology, we proposed a model to
+measure the extent to which fairness, human right and normality,
+transparency and accountability, privacy and security, explainability, and
+performance guarantees are discussed among these topics. Results
+confirmed that explainability and performance guarantees were mostly
+discussed in the case of deep learning technology, privacy and security
+in the case of machine learning technology, and human rights and
+normality in the case of decision-making technology. Additionally, it
+was confirmed that the discussion on fairness in the overall finance AI
+technology field was low, suggesting that this discussion should be
+supplemented. The model presented in this study makes an important
+contribution in that it is capable of detecting the evolutionary direction
+of AI technology and quantitatively analysing their ethical attributes.
 
 tags:
   - Technology Phylogenetic Tree
