@@ -1,19 +1,19 @@
 ---
-title: 'Automation Will Set Occupational Mobility Free: Structural Changes in the Occupation Network'
+title: 'Learning from Rivals: Diversification Paths from Countries with Similar Export Structures'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Soohyoung Lee
-  - Dawoon Jeong*
-  - Jeong-Dong Lee
+  - Dawoon Jeong
+  - Saangkeub Lee
+  - Wonsub Eum
 
 #date: '2013-07-01T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-11-06T00:00:00Z'
+publishDate: '2024-05-31T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,25 +21,26 @@ publishDate: '2024-11-06T00:00:00Z'
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: in *arXiv preprint*
-publication_short: in *arXiv preprint*
+publication: in *SSRN preprint*
+publication_short: in *SSRN preprint*
 
-abstract: Occupational mobility is an emergent strategy to cope with technological unemployment by facilitating efficient labor redeployment. However, previous studies analyzing networks show that the boundaries to smooth mobility are constrained by a fragmented structure in the occupation network. In this study, positing that this structure will significantly change due to automation, we propose the skill automation view, which asserts that automation substitutes for skills, not for occupations, and simulate a scenario of skill automation drawing on percolation theory. We sequentially remove skills from the occupation-skill bipartite network and investigate the structural changes in the projected occupation network. The results show that the accumulation of small changes (the emergence of bridges between occupations due to skill automation) triggers significant structural changes in the occupation network. The structural changes accelerate as the components integrate into a new giant component. This result suggests that automation mitigates the bottlenecks to smooth occupational mobility.
+abstract: How does an underdeveloped country enter new industries? This study seeks to answer this question by arguing that the country learns the diversification paths from its rivals with similar export structures. Constructing a panel dataset of export production covering 133 countries from 1963 to 2018, this study suggests a network space of how countries are similar in export using a new metric of imitation density. Fixed effect and logistic models are used to test the causal relationship between the existence of industries in countries with similar industrial structures and diversification to these industries. Further, a case study of four Asian countries is considered. The results suggest that imitation density's influence on diversification does not vary with a country's development level. Diversified products' complexity correlates more with imitation density at lower economic complexity. This suggests that countries diversify into complex products through imitation (innovation) at lower (higher) economic complexity, providing empirical evidence of the transition from imitation to innovation.
 
 tags:
-  - Occupation Network
-  - Percolation theory
-  - Skill Automation
+  - Product diversification
+  - Economic complexity
+  - Imitation
+  - Path-Dependence
 
 # Display this page in the Featured widget?
-featured: False
+featured: True
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://arxiv.org/abs/2411.03605
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4850246
 #url_code: 'https://github.com/Dawoon-Jeong0523/Product-Science/blob/main/Product_Lineage_Life_Cycle.ipynb'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
