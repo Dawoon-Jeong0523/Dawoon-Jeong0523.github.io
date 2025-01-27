@@ -2,7 +2,7 @@
 title: "Automation Will Set Occupational Mobility Free: Structural Changes in the Occupation Network "
 authors:
   - Soohyoung Lee
-  - Dawoon Jeong* (Corresponding Author)
+  - Dawoon Jeong*
   - Jeong-Dong Lee
 
 date: "2024-11-6T00:00:00Z"

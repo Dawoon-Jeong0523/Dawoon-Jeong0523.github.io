@@ -6,12 +6,12 @@ title: 'Evolutionary mechanism for diversity dynamics in technology using a phyl
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Hayoung Park
-  - Dawoon Jeong* (Corresponding Author)
+  - Dawoon Jeong*
   - Jeong-Dong Lee
   
 # Author notes (optional)
-author_notes:
-  - 'Corresponding Author'
+#author_notes:
+#  - 'Corresponding Author'
 
 #date: '2013-07-01T00:00:00Z'
 #doi: ''

@@ -6,12 +6,12 @@ title: 'Drivers of institutional evolution: phylogenetic inertia and ecological 
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Hoyoon Lee
-  - Dawoon Jeong* (Corresponding Author)
+  - Dawoon Jeong*
   - Jeong-Dong Lee
   
 # Author notes (optional)
-author_notes:
-  - 'Corresponding Author'
+#author_notes:
+#  - 'Corresponding Author'
 
 #date: '2013-07-01T00:00:00Z'
 #doi: ''
