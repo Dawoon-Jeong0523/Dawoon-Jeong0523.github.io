@@ -1,7 +1,7 @@
 ---
 title: Advanced Data Mining with Artificial Intelligence (BAT51201)
 summary: Understand the basic and core AI algorithms and data analysis techniques
-date: 2024-09-01
+date: 2025-01-27
 type: docs
 tags:
   - Machine Learning, Deep Learning, Transformer
