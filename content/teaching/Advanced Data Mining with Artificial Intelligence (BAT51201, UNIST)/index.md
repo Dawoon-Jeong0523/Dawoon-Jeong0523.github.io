@@ -12,4 +12,4 @@ This course is an introductory graduate-level course on data mining and artifici
 In this course, students will learn the most basic and core deep learning techniques and examine how deep learning techniques can improve business
 problem-solving and decision-making. Moreover, the students will study practical examples to place data analysis in business context. In specific, this
 course covers the concepts and applications of data preprocessing, regression analysis, clustering, neural networks, CNN, and RNN. To achieve these
-objectives, this course uses a combination of lectures, in-class exercises, case studies, class discussions, assignment, exam.
+objectives, this course uses a combination of lectures, in-class exercises, case studies, class discussions, assignment, exam ([Lecture Code Link](https://github.com/Dawoon-Jeong0523/Lecture_UNIST_2024_Fall)).
