@@ -8,10 +8,10 @@ authors:
   - Hayoung Park
   - Dawoon Jeong*
   - Jeong-Dong Lee
-  
+
 # Author notes (optional)
 #author_notes:
-#  - 'Corresponding Author'
+#  - Corresponding Author'
 
 #date: '2013-07-01T00:00:00Z'
 #doi: ''
@@ -26,14 +26,14 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Industrial and Corporate Change*
-publication_short: In *ICC*
+publication_short: In *Industrial and Corporate Change*
 
 abstract: This study investigates the dynamics of diversity within photovoltaic technology by considering the spatial information of technological change. We introduce a phylogenetic tree methodology using an evolutionary perspective for validation at the level of technology genes and functional modules. Our findings show that the photovoltaic technology phylogenetic tree fully describes the technological and industrial histories of photovoltaics. Furthermore, the results imply that diversity is necessary for the evolutionary mechanism to operate and technology integration is the correct direction to pursue.
 
 tags:
-  - Photovoltaic technology
+  - Photovoltaic Patent
   - Technology Phylogenetic Tree
-  - Technological Diversity
+  - Technology Diversity
 
 # Display this page in the Featured widget?
 featured: False
@@ -43,8 +43,14 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://academic.oup.com/icc/advance-article/doi/10.1093/icc/dtae020/7678988?login=true'
-#url_code: 'https://github.com/Dawoon-Jeong0523/Product-Science/blob/main/Phylogenetic_Tree_insitution_JEE.ipynb'
+url_pdf: 'https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtae020/7678988?redirectedFrom=PDF&login=true'
+#url_code: 'https://github.com/Dawoon-Jeong0523/Product-Science/blob/main/Product_Lineage_Life_Cycle.ipynb'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
