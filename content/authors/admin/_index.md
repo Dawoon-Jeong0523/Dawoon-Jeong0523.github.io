@@ -24,7 +24,7 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Kellogg School of Management, Northwestern University (Affiliated with the Northwestern Institute on Complex Systems)
+  - name: Kellogg School of Management, Northwestern University\nAffiliated with the Northwestern Institute on Complex Systems
     url: https://www.nico.northwestern.edu/
 
 # Social network links
