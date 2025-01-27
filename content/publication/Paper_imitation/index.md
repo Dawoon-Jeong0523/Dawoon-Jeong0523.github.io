@@ -7,7 +7,7 @@ title: 'Learning from Rivals: Diversification Paths from Countries with Similar 
 authors:
   - Dawoon Jeong
   - Saangkeub Lee
-  - Wonsub Eum
+  - Wonsub Eum*
 
 #date: '2013-07-01T00:00:00Z'
 #doi: ''
@@ -18,7 +18,7 @@ publishDate: '2024-05-31T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["preprint (R&R)"]
 
 # Publication name and optional abbreviated publication name.
 publication: in *SSRN preprint*
@@ -41,7 +41,7 @@ featured: True
 #   url: http://example.org
 
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4850246
-#url_code: 'https://github.com/Dawoon-Jeong0523/Product-Science/blob/main/Product_Lineage_Life_Cycle.ipynb'
+url_code: 'https://github.com/Dawoon-Jeong0523/Economic-Complexity/blob/main/Learning_from_Rivals_SITC_code.ipynb'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
