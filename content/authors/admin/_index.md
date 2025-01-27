@@ -181,5 +181,5 @@ awards:
 
 ## About Me
 
-Dawoon Jeong is a postdoctoral fellow of Kellogg School of Management at Northwestern University, also affiliated with the Northwestern Institute on Complex Systems (NICO). His research interests include computational social science, product innovation, science of science, network science and economic complexity.
+Dawoon Jeong is a postdoctoral fellow at the Kellogg School of Management, Northwestern University, and is also affiliated with the Northwestern Institute on Complex Systems (NICO). He is supervised by Professor Hyejin Youn. His research interests include computational social science, product innovation, the science of science, network science, and economic complexity
 
