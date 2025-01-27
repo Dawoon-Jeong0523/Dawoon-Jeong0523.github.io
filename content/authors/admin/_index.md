@@ -3,15 +3,15 @@
 title: Dawoon Jeong
 
 # Name pronunciation (optional)
-name_pronunciation: Dawoon Jeong
+#name_pronunciation: Dawoon Jeong
 
 # Full name (for SEO)
 first_name: Dawoon
 last_name: Jeong
 
 # Status emoji
-status:
-  icon: ☕️📝
+#status:
+#  icon: ☕️📝
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,7 +50,8 @@ interests:
   - Computational social science
   - Product innovation
   - Science of science
-
+  - Network science
+  - Economic complexity
 
 education:
   - area: PhD in Engineering
