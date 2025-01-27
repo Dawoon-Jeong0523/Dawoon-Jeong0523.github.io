@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I apply network and machine learning approaches to understand social systems, including products, science, technology, law, and the economy. 
+        I apply network and machine learning approaches to understand social systems, 
         
-        Feel free to reach out for collaboration! 😃"
+        including products, science, technology, law, firm, and the country. 
+        
+        Feel free to reach out for collaboration! 😃
 
     design:
       columns: '1'
